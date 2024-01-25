@@ -1,0 +1,2 @@
+C:\Users\Ucenik\source\repos\NebeskoTijelo\NebeskoTijelo\obj\Debug\NebeskoTijelo.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\NebeskoTijelo\NebeskoTijelo\obj\Debug\NebeskoTijelo.csproj.CoreCompileInputs.cache
