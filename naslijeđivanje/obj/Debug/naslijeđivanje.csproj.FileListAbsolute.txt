@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\naslijeđivanje\naslijeđivanje\bin\Debug\naslijeđivanje.exe.config
+C:\Users\Ucenik\source\repos\naslijeđivanje\naslijeđivanje\bin\Debug\naslijeđivanje.exe
+C:\Users\Ucenik\source\repos\naslijeđivanje\naslijeđivanje\bin\Debug\naslijeđivanje.pdb
+C:\Users\Ucenik\source\repos\naslijeđivanje\naslijeđivanje\obj\Debug\naslijeđivanje.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\naslijeđivanje\naslijeđivanje\obj\Debug\naslijeđivanje.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\naslijeđivanje\naslijeđivanje\obj\Debug\naslijeđivanje.exe
+C:\Users\Ucenik\source\repos\naslijeđivanje\naslijeđivanje\obj\Debug\naslijeđivanje.pdb
